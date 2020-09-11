@@ -1,0 +1,7 @@
+Nuclease:  Cas9
+
+gRNA:
+
+GCGAACTGCGGGGAGCCGGT
+
+HDR Template:  N/A
