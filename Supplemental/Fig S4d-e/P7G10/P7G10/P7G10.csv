@@ -1,0 +1,3 @@
+Name,Sample,Total,g10,Total_indel,#1-Indel,#1-Reads(%),#2-Indel,#2-Reads(%),#3-Indel,#3-Reads(%),#4-Indel,#4-Reads(%),#5-Indel,#5-Reads(%),#6-Indel,#6-Reads(%),#7-Indel,#7-Reads(%),#8-Indel,#8-Reads(%),SNP_test,raw_wt_counter,%g10
+HBBCD34patient07G10_R1_001.fastq,,39481,27232 (69.0%),28.8,0,28126 (71.2%),-9,3449 (8.7%),-1,2004 (5.1%),1,1577 (4.0%),-2,943 (2.4%),-8,583 (1.5%),2,560 (1.4%),-3,307 (0.8%),1.09,27778 (1.0),69.0
+HBBCD34patient07WT_R1_001.fastq,,43918,43741 (99.6%),0.0,0,43907 (100.0%),-1,11 (0.0%),NA,,NA,,NA,,NA,,NA,,NA,,1.01,44472 (1.0),99.6
