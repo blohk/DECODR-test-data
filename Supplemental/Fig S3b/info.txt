@@ -1,0 +1,8 @@
+Nuclease:  Cas12a
+
+gRNA:
+
+CCCAGTCACGACGTTGTAAAA
+
+HDR Template:  N/A
+
