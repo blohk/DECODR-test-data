@@ -1,0 +1,3 @@
+Guide sequences: atgacaaagtttatgtaatt
+Donor: None
+Nuclease: Cas12a

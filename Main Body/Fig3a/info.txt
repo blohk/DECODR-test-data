@@ -1,0 +1,3 @@
+Guide sequences: tatttgacttcagtcagcga
+Donor: None
+Nuclease: Cas9
